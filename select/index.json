@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lights, Camera, Action! - Studiopolis Zone Act 1",
+  "base_artist": "Tee Lopes",
+  "createdAt": "2026-03-20T14:53:19.072054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Light's, Camera, Action",
+      "artist": "Remy Ma",
+      "has_synced": false,
+      "path": "select/01_Light's,_Camera,_Action_Remy_Ma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action (Non-LP Version)",
+      "artist": "The Pussycat Dolls feat. New Kids On the Block",
+      "has_synced": true,
+      "path": "select/02_Lights,_Camera,_Action_(Non-LP_Version)_The_Pussycat_Dolls_feat._New_Kids_On_the_Block.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lights Camera Action",
+      "artist": "The Pussycat Dolls feat. New Kids On The Block",
+      "has_synced": true,
+      "path": "select/03_Lights_Camera_Action_The_Pussycat_Dolls_feat._New_Kids_On_The_Block.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action!",
+      "artist": "Mr. Cheeks",
+      "has_synced": true,
+      "path": "select/04_Lights,_Camera,_Action!_Mr._Cheeks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action",
+      "artist": "Mr. Cheeks",
+      "has_synced": true,
+      "path": "select/05_Lights,_Camera,_Action_Mr._Cheeks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action (Non-LP Version)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/06_Lights,_Camera,_Action_(Non-LP_Version)_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lights Camera Action",
+      "artist": "Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/07_Lights_Camera_Action_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action!",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/08_Lights,_Camera,_Action!_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action",
+      "artist": "Nonpoint",
+      "has_synced": true,
+      "path": "select/09_Lights,_Camera,_Action_Nonpoint.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! – Studiopolis Zone Act 1",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/10_Lights,_Camera,_Action!_–_Studiopolis_Zone_Act_1_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! Studiopolis Zone Act 1",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/11_Lights,_Camera,_Action!_Studiopolis_Zone_Act_1_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! - Studiopolis Zone Act 1",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/12_Lights,_Camera,_Action!_-_Studiopolis_Zone_Act_1_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lights Camera Action",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/13_Lights_Camera_Action_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! - Studiopolis Zone Act 1",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/14_Lights,_Camera,_Action!_-_Studiopolis_Zone_Act_1_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! (Studiopolis Zone Act 1)",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/15_Lights,_Camera,_Action!_(Studiopolis_Zone_Act_1)_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/16_Lights,_Camera,_Action_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! (LP Version)",
+      "artist": "Mr. Cheeks",
+      "has_synced": false,
+      "path": "select/17_Lights,_Camera,_Action!_(LP_Version)_Mr._Cheeks.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! (Studiopolis Zone Act 1)",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/18_Lights,_Camera,_Action!_(Studiopolis_Zone_Act_1)_Tee_Lopes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lights, Camera, Action! (Studiopolis Zone - Act 1)",
+      "artist": "Tee Lopes",
+      "has_synced": true,
+      "path": "select/19_Lights,_Camera,_Action!_(Studiopolis_Zone_-_Act_1)_Tee_Lopes.lrc"
+    }
+  ]
+}
